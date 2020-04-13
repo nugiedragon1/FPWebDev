@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    THIS IS AMERICA
+                    THIS IS DZAKY
                 </div>
 
                 <div class="links">
