@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    THIS IS AMERICA
                 </div>
 
                 <div class="links">
