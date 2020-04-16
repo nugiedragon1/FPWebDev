@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    THIS IS KENNY
+                    THIS IS EKI
                 </div>
 
                 <div class="links">
