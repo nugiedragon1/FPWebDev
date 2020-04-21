@@ -12,7 +12,6 @@
         <a href="{{ url('/signin-band') }}">
           <button class="btn-blue" style="border-radius: 40px">FIND MUSICIAN</button>
         </a>
-
         <a href="{{ url('/signin-musician') }}">
         <button class="btn-blue" style="border-radius: 40px;display: inline-block;">FIND BAND</button>
         </a>
@@ -22,7 +21,7 @@
      
   <!-- center 1 content -->
     <div class="row p-0 m-0">
-      <div class="col-sm-6 wow jackInTheBox" > 
+      <div class="col-sm-6 wow fadeInLeft" > 
         <img src="assets/naksotoy1.png"  style="padding-top:40px;padding-bottom:40px"alt="">
       </div>
       <div class="col-sm-6" style="text-align:center;padding-top:150px" >
